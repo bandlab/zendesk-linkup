@@ -11,12 +11,12 @@ To specify the URL links to be shown, use a JSON array of URLs. Each JSON object
 ```json
 [
   {
-    'title': 'User Profile',
-    'url': 'https://www.your-website.com/{{ticket.requester.email}}'
+    "title": "User Profile",
+    "url": "https://www.your-website.com/{{ticket.requester.email}}"
   },
   {
-    'title': 'Reported Post',
-    'url': 'https://www.your-website.com/post/{{ticket.customField:custom_field_name}}'
+    "title": "Reported Post",
+    "url": "https://www.your-website.com/post/{{ticket.customField:custom_field_name}}"
   }
 ]
 ```
