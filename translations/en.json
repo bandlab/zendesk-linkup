@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "URL Builder",
+    "name": "Linkup",
     "short_description": "Automatically generate URLs for each ticket",
     "long_description": "Automatically generate useful URLs for each ticket and save time finding what you need.",
     "installation_instructions": "Specify the URLs that you would like to have, then click install"
