@@ -1,3 +1,5 @@
+> Similar to [zendesklabs/url_builder_app](https://github.com/zendesklabs/url_builder_app) but with ZAF v2
+
 # BandLab - Zendesk Linkup
 
 Built using [Zendesk App Tools](https://developer.zendesk.com/apps/docs/developer-guide/zat) and [Handlebars](http://handlebarsjs.com/).
