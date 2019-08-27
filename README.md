@@ -8,7 +8,7 @@ URL templates are retrieved from the App Configurations, and the appropriate tic
 
 To specify the URL links to be shown, use a JSON array of URLs. Each JSON object should contain the **title** of the link (to be displayed), and the **url** to open.
 
-```
+```json
 [
   {
     'title': 'User Profile',
@@ -29,7 +29,7 @@ To test the Linkup App in a local environment, you will need to use the Zendesk 
 
 The App Configurations for local testing is defined in `settings.yml`. Once you have configured the YAML file to your preference, run the following command:
 
-```
+```sh
 zat server -c
 ```
 
