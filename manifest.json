@@ -1,0 +1,26 @@
+{
+  "name": "URLs",
+  "author": {
+    "name": "Bandlab Technologies",
+    "email": "bandlab@bandlab.com",
+    "url": "https://bandlab.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/index.html",
+      "new_ticket_sidebar": "assets/index.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0",
+  "parameters": [
+    {
+      "name": "uri_templates",
+      "type": "multiline",
+      "required": true,
+      "secure": false
+    }
+  ]
+}
